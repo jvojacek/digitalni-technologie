@@ -1,0 +1,135 @@
+[
+    {
+        "id": "monitor",
+        "name": "monitor",
+        "photoUrl": "www.google.com",
+        "properties": [
+            {
+                "id": "dotykovost",
+                "name": "dotykovost"
+            },
+            {
+                "id": "velikost",
+                "name": "velikost (palce)"
+            },
+            {
+                "id": "konektor",
+                "name": "konektor"
+            }
+        ],
+        "activities": [
+            {
+                "id": "graficky_vystup",
+                "name": "zobrazuje grafický výstup"
+            },
+            {
+                "id": "ovladani_pocitace",
+                "name": "může sloužit k ovládání počítače"
+            }
+        ]
+    },
+    {
+        "id": "sluchatka",
+        "name": "sluchátka",
+        "photoUrl": "www.google.com",
+        "properties": [
+            {
+                "id": "zpusob_pripojeni",
+                "name": "způsob připojení"
+            },
+            {
+                "id": "integrovany_mikrofon",
+                "name": "integrovaný mikrofon"
+            }
+        ],
+        "activities": [
+            {
+                "id": "reprodukuje_zvuk",
+                "name": "reprodukuje zvuk"
+            },
+            {
+                "id": "nahrava_zvuk",
+                "name": "může nahrávat zvuk"
+            }
+        ]
+    },
+    {
+        "id": "kamera",
+        "name": "kamera",
+        "photoUrl": "www.google.com",
+        "properties": [
+            {
+                "id": "rozliseni",
+                "name": "rozlišení (px)"
+            },
+            {
+                "id": "integrovany_mikrofon",
+                "name": "integrovaný mikrofon"
+            }
+        ],
+        "activities": [
+            {
+                "id": "nahrava_video",
+                "name": "nahrává video"
+            },
+            {
+                "id": "nahrava_zvuk",
+                "name": "může nahrávat zvuk"
+            }
+        ]
+    },
+    {
+        "id": "monitor",
+        "name": "monitor",
+        "photoUrl": "www.google.com",
+        "properties": [
+            {
+                "id": "dotykovost",
+                "name": "dotykovost"
+            },
+            {
+                "id": "velikost",
+                "name": "velikost (palce)"
+            },
+            {
+                "id": "konektor",
+                "name": "konektor"
+            }
+        ],
+        "activities": [
+            {
+                "id": "graficky_vystup",
+                "name": "zobrazuje grafický výstup"
+            },
+            {
+                "id": "ovladani_pocitace",
+                "name": "může sloužit k ovládání počítače"
+            }
+        ]
+    },
+    {
+        "id": "tiskarna",
+        "name": "tiskárna",
+        "photoUrl": "www.google.com",
+        "properties": [
+            {
+                "id": "rychlost",
+                "name": "rychlost (str./min)"
+            },
+            {
+                "id": "technologie_tisku",
+                "name": "technologie tisku"
+            },
+            {
+                "id": "cernobila_barevna",
+                "name": "černobílá/barevná"
+            }
+        ],
+        "activities": [
+            {
+                "id": "graficky_vystup",
+                "name": "zobrazuje grafický výstup"
+            }
+        ]
+    }
+]
